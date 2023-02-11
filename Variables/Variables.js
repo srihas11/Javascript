@@ -1,0 +1,5 @@
+console.log( "Khanacademy's teachings") - console.log ("A variable is a way to store values. To use a variable, to let the program know about the variable and assign some value so that, it lets the program know what value we are storing in the variable.")
+console.log("For example: var xPos = 10; In this, we gave variable and callect it xPos and assigned it to hold the value as 10")                                                                                                               
+console.log("In the JavaScript language, we use mathematical operators to calculate numbers and create expressions,In JavaScript, using the + operator you can get the value of the amount of quantity you want. You can also use - for subtraction,* for multiplication, / for division, and % to take the remainder.")
+console.log("For example: var x = 10; , var a = (x + 10) * (x/2) + 100; = 110")
+console.log("When you use multiple math operators in a single expression,the computer follows an order to make sure it computes the result same each time")
