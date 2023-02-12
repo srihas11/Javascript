@@ -1,3 +1,5 @@
-console.log("Khanacademy's teachings") - console.log("Passing numbers into functions, storing numbers in variables etc.. We call these as text values strings in Javascript.")
-console.log("Example : text("Hello World!"100,100") - console.log(We could also store it in a variable, and then pass that variable into the text command")
-console.log("Example: var myGreeting = 'Hello World!';")
+"Hello World!"  // Create a string
+console.log("Hello World!") // Printing a string
+var myGreeting = "Hello World!"; // Store string in variable
+console.log(myGreeting) // Printing a string variable
+var myGreeting = 'Hello World!'; // Single quotes string
