@@ -23,7 +23,7 @@ if (age >= 35) {
 } else if (age >= 30) {
   console.log('You can vote AND run for the Senate!');
 } else if (age >= 18) {
-  console.timeLog('You can vote!');
+  console.log('You can vote!');
 } else {
   console.log('You have no voice in government!');
 }
